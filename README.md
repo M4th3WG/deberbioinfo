@@ -7,3 +7,4 @@ se utilizo una
 -  tarjeta gráfica no disponible
  ## Programas
 se adiciono los deberes mediante git hub y atom 
+:+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1: ## Bioninformatica:shipit::shipit::shipit::shipit::shipit::shipit:
