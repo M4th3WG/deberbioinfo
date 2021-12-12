@@ -6,5 +6,5 @@ se utilizo una
 -  8 GB RAM / Disco Duro 1 tera
 -  tarjeta gráfica no disponible
  ## Programas
-se adiciono los deberes mediante git hub y atom 
+se adiciono los deberes mediante git hub y atom; 
   :+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1: ## Bioninformatica:shipit::shipit::shipit::shipit::shipit::shipit:
